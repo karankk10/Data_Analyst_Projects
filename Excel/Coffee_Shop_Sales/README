@@ -1,17 +1,1 @@
-Read the Coffee shop sales analysis file to understand the objective and analysis goal.
 
-Raw Data Coffee shop sales has the unclean data 
-
-Final result is file which contains clean data and the dashboard.
-
-
------ to clean data following steps have been performed -----------------
-
-1. Made new columns for large, medium, small
-2. Removed Rg, Lg, Sm from product detail column.
-3. Used trim and capitalized  each word from format.
-4. Created new column which is custom column for total bill
-5. Removed data from transaction time by using text after delimiter.
-6. Added new columns from existing transaction data column which are month, day
-7. Added new columns from transaction time which is hour.
-8. Created 2 new columns which are Day of week and Month Number
